@@ -6,6 +6,8 @@ popcorns
 sweets
 chocolate
 chevda
+number
+ringoz
 sugar
 salt
 cooking oil
