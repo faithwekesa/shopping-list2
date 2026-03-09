@@ -1,3 +1,4 @@
+sugar
 biscuits
 ice cream
 crisps
@@ -5,3 +6,9 @@ popcorns
 sweets
 chocolate
 chevda
+sugar
+salt
+cooking oil
+rice
+vegetables
+beans
